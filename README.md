@@ -1,4 +1,4 @@
-##　flexbox 練習問題
+## flexbox 練習問題
 
 ### 目標
 下の画像と同じ見た目になるように「assets/css/style.css」の
