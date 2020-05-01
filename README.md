@@ -1,6 +1,8 @@
-#flexbox practice
+##　flexbox 練習問題
 
-![MacDown logo](./assets/img/flexbox_hw_goal.png)
+### 目標
+下の画像と同じ見た目になるように「assets/css/style.css」の
+「.container」と「.box」の中身を編集しましょう。
+<br>
 
-###目標
-上の画像のようになるように".container"と”.box”のCSSを編集しましょう。
+![見本](./assets/img/flexbox_hw_goal.png)
