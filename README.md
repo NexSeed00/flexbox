@@ -5,7 +5,9 @@
 「.container」と「.box」の中身を編集しましょう。
 <br>
 
-![見本](./assets/img/flexbox_hw_goal.png)
+![見本](img/flexbox_hw_goal.png)
+
+### 開始準備
 
 1. 自分のフォルダの中に、「flexbox-hw」という名前のフォルダを作ります。
 2. 「flexbox-hw」の中に、index.htmlファイルとstyle.cssファイルを作成します。
