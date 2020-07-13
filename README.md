@@ -5,7 +5,7 @@
 「.container」と「.box」の中身を編集しましょう。
 <br>
 
-![見本](img/flexbox_hw_goal.png)
+![見本](img/goal.png)
 
 ### 開始準備
 
@@ -25,13 +25,11 @@ index.html
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <main>
-        <div class="container">
-            <div class="box"></div>
-            <div class="box"></div>
-            <div class="box"></div>
-        </div>
-    </main>
+    <div class="container">
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+    </div>
 </body>
 </html>
 ```
@@ -42,16 +40,15 @@ style.css
     margin: 0;
     padding: 0;
 }
-main {
+.container {
     width: 100%;
     height: 500px;
-    background-color: grey;
-}
-.container {
-    /* ここを編集 */
+    border: 1px solid ;
+    /* この下にコードを追加 */
+
 }
 .box {
-    /* ここを編集 */
+    /* ここにコードを追加 */
 }
 ```
 
