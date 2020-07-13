@@ -1,7 +1,7 @@
 ## flexbox 練習問題
 
 ### 目標
-下の画像と同じ見た目になるように「assets/css/style.css」の
+下の画像と同じ見た目になるように「style.css」の
 「.container」と「.box」の中身を編集しましょう。
 <br>
 
